@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Yeri Armenta.
+
+- I am currently working at Altimetrik Mexico
+- I am currently learning about Node.js, security, React and React Native
+- I have several repositories with my own exercises and projects.
+
+> **My site:** https://yeriarmenta.name/
 
 <!--
 **yearro/yearro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
